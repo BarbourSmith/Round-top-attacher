@@ -943,6 +943,19 @@
                     ]
                 },
                 {
+                    "atomType": "Stl",
+                    "name": "Stl",
+                    "x": 0.9219576719576719,
+                    "y": 0.3117283950617284,
+                    "uniqueID": 698516,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/401421/252354/144788Assembly"
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 0.8194444444444444,
@@ -960,19 +973,6 @@
                         {
                             "name": "3D shape 4",
                             "ioValue": "source/401421/252354/851623Extrude"
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Stl",
-                    "name": "Stl",
-                    "x": 0.9444444444444444,
-                    "y": 0.3846153846153846,
-                    "uniqueID": 698516,
-                    "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": "source/401421/252354/144788Assembly"
                         }
                     ]
                 },
@@ -1425,8 +1425,8 @@
                                 {
                                     "atomType": "Extrude",
                                     "name": "Extrude",
-                                    "x": 0.5403439153439153,
-                                    "y": 0.72,
+                                    "x": 0.5410052910052909,
+                                    "y": 0.7067901234567902,
                                     "uniqueID": 207100,
                                     "ioValues": [
                                         {
@@ -1741,8 +1741,8 @@
                         {
                             "atomType": "Stl",
                             "name": "Stl",
-                            "x": 0.7625661375661376,
-                            "y": 0.3046153846153846,
+                            "x": 0.7592592592592592,
+                            "y": 0.3055555555555555,
                             "uniqueID": 175430,
                             "ioValues": [
                                 {
